@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<script src="scripts/data/beta.json"></script>
+<script src="scripts/videoSelector.js"></script>
+<head>
+</head>
+<body>
+  <p> Note: <br>
+  Data taken from: https://www.reddit.com/r/MonsterHunter/comments/7m9l5b/fastest_speedkills_for_all_weapons_rathalosdiablos/ </p>
+
+  <div>
+    <select id="monster" onchange="update_src_vid()">
+      <option value="none">Monster...</option>
+      <option value="rathalos">Rathalos</option>
+      <option value="diablos">Diablos</option>
+    </select>
+
+    <select id="weapon" onchange="update_src_vid()">
+      <option value="none">Weapon...</option>
+      <option value="bow">Bow</option>
+      <option value="db">Dual Blades</option>
+      <option value="cb">Charge Blade</option>
+      <option value="gs">Great Sword</option>
+      <option value="gl">Gun Lance</option>
+      <option value="hammer">Hammer</option>
+      <option value="hbg">Heavy Bowgun</option>
+      <option value="hh">Hunting Horn</option>
+      <option value="ig">Insect Glaive</option>
+      <option value="lance">Lance</option>
+      <option value="ls">Long Sword</option>
+      <option value="lbg">Light Bowgun</option>
+      <option value="swaxe">Switch Axe</option>
+      <option value="sns">Sword and Shield</option>
+    </select>
+  </div>
+  
+  <div>
+    <h3 id="vid_header"></h3>
+    <iframe id="vid" width="560" height="315" src="" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+  </div>
+  
+</body>
+</html>

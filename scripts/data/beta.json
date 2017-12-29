@@ -1,0 +1,182 @@
+beta_data = {
+  "monsters": [
+    {
+      "name":"rathalos",
+      "run": [
+        {
+          "weapon_name" : "bow",
+          "hunter_name" : "(douji)",
+          "time" : "5.20",
+          "vid_url" : "https://www.youtube.com/embed/ijNufiHOZYg"
+        },
+        {
+          "weapon_name" : "db",
+          "hunter_name" : "(natsume)",
+          "time" : "4.09",
+          "vid_url" : "https://www.youtube.com/embed/g7cvosioC24"
+        },
+        {
+          "weapon_name" : "cb",
+          "hunter_name" : "Rainy",
+          "time" : "3.41",
+          "vid_url" : "https://www.youtube.com/embed/p_WcS2N7qjY"
+        },
+        {
+          "weapon_name" : "gs",
+          "hunter_name" : "Bao",
+          "time" : "4.43",
+          "vid_url" : "https://www.youtube.com/embed/i0o3X4saXTA"
+        },
+        {
+          "weapon_name" : "gl",
+          "hunter_name" : "ALEX",
+          "time" : "4.37",
+          "vid_url" : "https://www.youtube.com/embed/xl76DOmMT2U"
+        },
+        {
+          "weapon_name" : "hammer",
+          "hunter_name" : "Pepo",
+          "time" : "4.04",
+          "vid_url" : "https://www.youtube.com/embed/f0m-POfENSU"
+        },
+        {
+          "weapon_name" : "hbg",
+          "hunter_name" : "Latem",
+          "time" : "3.52",
+          "vid_url" : "https://www.youtube.com/embed/B1Nu5N7Ij8A"
+        },
+        {
+          "weapon_name" : "hh",
+          "hunter_name" : "(eineko)",
+          "time" : "7.23",
+          "vid_url" : "https://www.youtube.com/embed/XIH3rNj45rQ"
+        },
+        {
+          "weapon_name" : "ig",
+          "hunter_name" : "Hoe Bag",
+          "time" : "5.47",
+          "vid_url" : "https://www.youtube.com/embed/02a7Sl67W-M"
+        },
+        {
+          "weapon_name" : "lance",
+          "hunter_name" : "Lance Whiteknight",
+          "time" : "5.09",
+          "vid_url" : "https://www.youtube.com/embed/mF0ghnfAwU0"
+        },
+        {
+          "weapon_name" : "lbg",
+          "hunter_name" : "ALEX",
+          "time" : "5.54",
+          "vid_url" : "https://www.youtube.com/embed/DIClHZPO-ZQ"
+        },
+        {
+          "weapon_name" : "ls",
+          "hunter_name" : "Rainy",
+          "time" : "5.07",
+          "vid_url" : "https://www.youtube.com/embed/L5-VU36K5Wg"
+        },
+        {
+          "weapon_name" : "sns",
+          "hunter_name" : "GaRaNa",
+          "time" : "6.44",
+          "vid_url" : "https://www.youtube.com/embed/7KR4JnVNpk0"
+        },
+        {
+          "weapon_name" : "swaxe",
+          "hunter_name" : "(subukare)",
+          "time" : "4.47",
+          "vid_url" : "https://www.youtube.com/embed/RjDTx7iGEDM"
+        },
+      ]
+    },
+    {
+      "name":"diablos",
+      "run": [
+        {
+          "weapon_name" : "bow",
+          "hunter_name" : "",
+          "time" : "",
+          "vid_url" : ""
+        },
+        {
+          "weapon_name" : "db",
+          "hunter_name" : "(ratorii)",
+          "time" : "5.45",
+          "vid_url" : "https://www.youtube.com/embed/_ELDxQuSciI"
+        },
+        {
+          "weapon_name" : "cb",
+          "hunter_name" : "Pacifist",
+          "time" : "4.47",
+          "vid_url" : "https://www.youtube.com/embed/AnIAgQhfGEQ"
+        },
+        {
+          "weapon_name" : "gs",
+          "hunter_name" : "Insanity",
+          "time" : "6.00",
+          "vid_url" : "https://www.youtube.com/embed/aZlTawgMbbo"
+        },
+        {
+          "weapon_name" : "gl",
+          "hunter_name" : "(Anbu)",
+          "time" : "5.57",
+          "vid_url" : "https://www.youtube.com/embed/b_kAvN1nfDI"
+        },
+        {
+          "weapon_name" : "hammer",
+          "hunter_name" : "(mochi)",
+          "time" : "7.00",
+          "vid_url" : "https://www.youtube.com/embed/dIi1GTgYbEE"
+        },
+        {
+          "weapon_name" : "hbg",
+          "hunter_name" : "Tatsuffy",
+          "time" : "4.45",
+          "vid_url" : "https://www.youtube.com/embed/8Fvif0jj-D0"
+        },
+        {
+          "weapon_name" : "hh",
+          "hunter_name" : "(Norio Fukushigoshi)",
+          "time" : "7.42",
+          "vid_url" : "https://www.youtube.com/embed/wJb9PbAVbVg"
+        },
+        {
+          "weapon_name" : "ig",
+          "hunter_name" : "(onechan neru)",
+          "time" : "6.34",
+          "vid_url" : "https://www.youtube.com/embed/4CooNGEKDuU"
+        },
+        {
+          "weapon_name" : "lance",
+          "hunter_name" : "Lance Whiteknight",
+          "time" : "5.13",
+          "vid_url" : "https://www.youtube.com/embed/1UKhczkZEhY"
+        },
+        {
+          "weapon_name" : "lbg",
+          "hunter_name" : "(hao-)",
+          "time" : "6.06",
+          "vid_url" : "https://www.youtube.com/embed/mID9bkBTPe8"
+        },
+        {
+          "weapon_name" : "ls",
+          "hunter_name" : "junk",
+          "time" : "6.03",
+          "vid_url" : "https://www.youtube.com/embed/rzVkXi9o_sU"
+        },
+        {
+          "weapon_name" : "sns",
+          "hunter_name" : "torma rt",
+          "time" : "8.45",
+          "vid_url" : "https://www.youtube.com/embed/VM6c30j-1Go"
+        },
+        {
+          "weapon_name" : "swaxe",
+          "hunter_name" : "yamamori",
+          "time" : "5.55",
+          "vid_url" : "https://www.youtube.com/embed/Ig8_5YhuXjg"
+        },
+      ]
+    }
+  ]
+};
